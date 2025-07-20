@@ -25,8 +25,21 @@ Each example:
 | hx-get vs hx-post | [`get-vs-post.php`](examples/get-vs-post.php) | See how different HTTP methods behave |
 | Fragment loading | [`fragment-load.php`](examples/fragment-load.php) | Load partial responses dynamically |
 | hx-trigger (keyup) | [`trigger-custom.php`](examples/trigger-custom.php) | Auto-search while typing |
+| hx-include | [`include-extra.php`](examples/include-extra.php) | Submit multiple fields |
+| hx-confirm | [`confirm-action.php`](examples/confirm-action.php) | Prompt before action |
+| Polling | [`polling.php`](examples/polling.php) | Auto update every few seconds |
+| hx-push-url | [`push-url.php`](examples/push-url.php) | Dynamic URL updates |
+| hx-swap modes | [`swap-modes.php`](examples/swap-modes.php) | Visual DOM insertion styles |
+| htmx:afterSwap | [`afterswap.php`](examples/afterswap.php) | fires a little earlier vs. afterSettle, good for logic, not always ideal for visual transitions. |
+| htmx:afterSettle | [`aftersettle.php`](examples/aftersettle.php) | Add animation or logic after DOM update |
+| Inline editing (PATCH) | [`inline-edit.php`](examples/inline-edit.php) | n.a. |
+| Tabs via HTMX | [`tabs.php`](examples/tabs.php) | Tabs via HTMX |
+| Chained dropdowns | [`chained-select.phpp`](examples/chained-select.php) | n.a. |
+| Paginated fruits list | [`pagination.php`](examples/pagination.php) | Load 5 items at a time |
+| Loading spinner | [`spinner-delay.php`](examples/spinner-delay.php) | Loading spinner (delayed) |
+| HTMX Slideshow | [`slideshow.php`](examples/slideshow.php) | Load slides from folder for presentations |
 
-these are just so of the examples, I have added some more and i will keep on updating this README.md 
+these are just some of the examples, I have added some more and i will keep on updating this README.md 
 
 ## Requirements
 
