@@ -6,7 +6,7 @@ Inspired by curiosity and a desire to "swim into" HTMX, this mini-project will s
 
 Because most (or maybe some) of us grew up building traditional MPA flows. Shifting to HTMX's minimal requests and DOM swapping feels like 'unlearning gravity'.
 
-I am looking for some examples using PHP but i find little and htmx feels a little different, so i hope this would help sort out some of HTMX features using PHP, this would also future me and the other 'similar' me people, HAHA. 
+I am looking for some examples using PHP but i find little and htmx feels a little different, so i hope this would help sort out some of HTMX features using PHP, this would also help future me and the other 'similar' me people, HAHA. 
 
 ## How it Works
 
