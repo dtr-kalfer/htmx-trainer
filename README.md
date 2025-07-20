@@ -25,26 +25,19 @@ Each example:
 | hx-get vs hx-post | [`get-vs-post.php`](examples/get-vs-post.php) | See how different HTTP methods behave |
 | Fragment loading | [`fragment-load.php`](examples/fragment-load.php) | Load partial responses dynamically |
 
-these are just examples, I have added some more and i will keep on updating this README.md 
+these are just so of the examples, I have added some more and i will keep on updating this README.md 
 
 ## Requirements
 
 - PHP 7.4+ or PHP 8+
 - A local server (e.g. Apache, PHP built-in server)
 - Internet access to load HTMX via CDN
-- If you have intermittent/slow internet, you may use the files inside the htmx_cdn folder, place the script inside the header tags like this
+- If you have intermittent/slow internet, you may use the files inside the htmx_cdn folder in order for you to test the htmx samples locally.
 
-<head>
-    <meta charset="UTF-8">
-    <title>HTMX-PHP Logic Trainer</title>
-    <script src="./htmx_cdn/htmx.min.js"></script>
-    <link rel="stylesheet" href="assets/style.css">
-</head>
+## Extract on the "c:/wamp64/www/" path
+## Run Locally on browser, type "localhost"
 
-### Extract on the "c:/wamp64/www/" path
-### Run Locally on browser, type "localhost"
-
-### if you placed it inside a folder, like this "c:/wamp64/www/myhtmxtrainer"
+if you placed it inside a folder, like this "c:/wamp64/www/myhtmxtrainer"
 Run Locally on browser, type "localhost/myhtmxtrainer/"
 
-### Please if you are working on the Dev server or a Production server make sure to set proper security i.e. csrf, if you transition into htmx. 
+Please if you are working on the Dev server or a Production server make sure to set proper security i.e. csrf, if you transition into htmx. 
