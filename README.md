@@ -24,6 +24,7 @@ Each example:
 | hx-indicator | [`indicator.php`](examples/indicator.php) | Show a loading animation while request is pending |
 | hx-get vs hx-post | [`get-vs-post.php`](examples/get-vs-post.php) | See how different HTTP methods behave |
 | Fragment loading | [`fragment-load.php`](examples/fragment-load.php) | Load partial responses dynamically |
+| hx-trigger (keyup) | [`trigger-custom.php`](examples/trigger-custom.php) | Auto-search while typing |
 
 these are just so of the examples, I have added some more and i will keep on updating this README.md 
 
